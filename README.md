@@ -29,7 +29,7 @@ Bibliotecas utilizadas:
   <tr>
     <td align="center">
       <a href="#" title="foto de Leonardo Alves">
-        <img src="[https://avatars3.githubusercontent.com/u/31936044](https://avatars.githubusercontent.com/u/106628674?v=4)" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/106628674?v=4" width="100px;" alt="Foto de Leonardo Alves"/><br>
         <sub>
           <b>Leonardo Alves</b>
         </sub>
