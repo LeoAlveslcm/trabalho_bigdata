@@ -25,7 +25,7 @@ Bibliotecas utilizadas:
 
 ## 💻 Arquivos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+Descrição dos arquivos do repositório:
 
 - Projeto no Jupyter Notebok `materias_primas_de_agricultura.ipynb`.
 - Código em Python `materias_primas_de_agricultura.py`. 
