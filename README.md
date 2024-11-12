@@ -23,6 +23,10 @@ Bibliotecas utilizadas:
 - [x] Matplotlib
 - [x] Seaborn
 
+Banco de Dados utilizado:
+
+- [x] Postegres
+
 ## 💻 Arquivos
 
 Descrição dos arquivos do repositório:
@@ -30,6 +34,7 @@ Descrição dos arquivos do repositório:
 - Projeto no Jupyter Notebok `materias_primas_de_agricultura.ipynb`.
 - Código em Python `materias_primas_de_agricultura.py`. 
 - Base de Dados Analisados `agricultural_raw_material.csv`.
+- Criando Banco e Alimentando no Jupyter Notebok `Banco_de_Dados.ipynb`.
 
 ## 🤝 Equipe
 
